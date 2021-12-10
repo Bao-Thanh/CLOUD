@@ -1,0 +1,26 @@
+body{
+    background-color: #FFF8DC;
+}
+body table {
+    font-size: 30px;
+    font-style: normal;
+}
+
+textarea {
+    font-style:normal;
+    font-size: 20px;
+}
+button{
+    font-style: normal;
+    font-size: 20px;
+    width: 7rem;
+    height: 2rem;
+}
+#inputText{
+    font-family: serif;
+    font-size: 20px;
+}
+#outputText{
+    font-family: serif;
+    font-size: 20px;
+}
